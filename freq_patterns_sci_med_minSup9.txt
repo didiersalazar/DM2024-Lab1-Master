@@ -8547,9 +8547,9 @@ guest	dying	9760	241:9
 408	dying	9760	241:9
 guest	408	dying	9760	241:9
 fred:12
-fred	international:9
 fred	means:9
 fred	action:9
+fred	international:9
 totally:12
 white:12
 columbia:12
@@ -9152,8 +9152,8 @@ fever:13
 chips:13
 chips	guest:9
 chocolate:13
-chocolate	action:9
 chocolate	guest:9
+chocolate	action:9
 chocolate	chips:9
 chocolate	chips	guest:9
 benefit:13
@@ -9170,7 +9170,6 @@ letter:13
 meal:13
 al:13
 claire:13
-claire	wisconsin:11
 claire	absurd:11
 claire	absurd	wisconsin:10
 claire	patently:11
@@ -9185,6 +9184,7 @@ absurd	patently	claire	wishes	wisconsin:10
 claire	wishes	absurd:11
 claire	wishes	patently:11
 absurd	claire	wishes	patently:11
+claire	wisconsin:11
 beginning:13
 iv:13
 quacks:13
@@ -9418,9 +9418,9 @@ online	9760	241:11
 408	online	9760	241:11
 guest	online	9760	241:11
 408	guest	online	9760	241:11
+online	communications:12
 online	408:12
 online	408	communications:10
-online	communications:12
 activity:15
 allow:15
 wonder:15
