@@ -2638,9 +2638,9 @@ nyx	du:14
 hearing:14
 hearing	entire:9
 hearing	entire	lie:9
-hearing	wasn:10
 hearing	lie:10
 hearing	lie	wasn:9
+hearing	wasn:10
 year:14
 required:14
 thinks:14
@@ -3325,6 +3325,10 @@ college	healta	date	gmt:9
 healta	date	college:10
 healta	college:12
 healy:18
+healy	gmt:10
+healy	gmt	college:9
+healta	healy	gmt	college:9
+healy	gmt	healta:10
 healy	date:10
 healy	date	gmt:9
 healta	healy	date	gmt:9
@@ -3333,10 +3337,6 @@ healta	college	healy	date	gmt:9
 healy	date	healta:10
 healy	date	college:10
 healta	healy	date	college:10
-healy	gmt:10
-healy	gmt	college:9
-healta	healy	gmt	college:9
-healy	gmt	healta:10
 healy	college:12
 healta	healy	college:12
 healy	healta:18

@@ -609,8 +609,8 @@ european:11
 helped:11
 offer:11
 personality:11
-personality	international:9
 personality	alt:9
+personality	international:9
 personality	510:9
 personality	510	international:9
 practitioner:11

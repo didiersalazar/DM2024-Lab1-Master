@@ -10967,8 +10967,6 @@ choice:21
 previous:21
 daily:21
 db7n:21
-db7n	andy:14
-cmu	db7n	andy:14
 db7n	civil:14
 db7n	civil	andy:12
 cmu	db7n	civil	andy:12
@@ -10981,6 +10979,8 @@ cmu	civil	db7n	pa	andy:12
 db7n	pa	cmu:14
 db7n	pa	civil:14
 cmu	db7n	pa	civil:14
+db7n	andy:14
+cmu	db7n	andy:14
 db7n	cmu:21
 directly:21
 using:21
